@@ -1,0 +1,343 @@
+body{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+h1{
+	text-align: center;
+	margin-top:0px;
+}
+p{
+	size: 50px;
+	text-align: center;
+
+}
+.imgpo{
+	width: 100%;
+	height: 750px;
+	margin: 0px auto 0px auto;
+	object-fit: cover;
+
+
+}
+.heading{
+	margin-top: 0;
+	height: 750px;
+}
+.name{
+	padding: 0px auto 0px auto;
+	position: absolute;
+	top: 45%;
+	left: 40%;
+	color: #e84545;
+	font-size: 400%;
+	font-family: cursive,sans-serif,monospace;
+	font: bold ;
+	font-style: italic;
+
+}
+
+.p{
+	position: absolute;
+	top: 55%;
+	left: 40%;
+	color: #fdffab;
+	font-size: 280%;
+	font-family: sans-serif,monospace,cursive,fantasy;
+	font: bold;
+
+}
+.name1{
+	font-size: 400%;
+	text-align: center;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.c{
+	style-width: 50%;
+	height: 125px;
+	border-radius: 40% ;
+	margin-left: 4%;
+	margin-right: 4%;
+	float: left;
+	border-spacing: 5px;
+	
+}
+
+.p1{
+	font-size: 2em;
+	color: royalblue ;
+	margin-top: 5%;
+	margin-right: 4%;
+}
+
+.py{
+	style-width: 35%;
+	height: 125px;
+	border-radius: 30% ;
+	margin-top: 5%;
+  margin-right: 4%;
+  margin-left: 4%;
+	border-spacing: 5px;
+	float: right;
+}
+
+.p2{ font-size: 2em;
+	color: royalblue ;
+	margin-top: 7%;
+	margin-left: 4%;
+	
+}
+
+
+.html{
+	style-width: 60%;
+	height: 150px;
+	border-radius: 50% ;
+	margin-left: 4%;
+	margin-right: 4%;
+	float: left;
+	
+
+}
+
+.p3{
+	font-size: 2em;
+	color: royalblue ;
+	margin-top: 5%;
+	margin-right: 4%;
+
+}
+
+.css{
+	style-width: 35%;
+	height: 150px;
+	border-radius: 30% ;
+	margin-top: 4%;
+	margin-right: 4%;
+	border-spacing: 5px;
+	float: right;
+	border-spacing: 1%;
+
+}
+
+.p4{
+	font-size: 2em;
+	color: royalblue ;
+	margin-top: 7%;
+	margin-left: 4%;
+
+
+	
+}
+
+.skills{
+	height: 950px;
+}
+footer{
+	width: 100%;
+	padding-top: 15px;
+	margin-top: 5%;
+	height: 95px;
+	line-height: 0.5;
+	letter-spacing: 0%;
+	background-color: indianred;
+}
+
+
+.abo:link, .abo:visited, .qua:link, .qua:visited, .hom:link, .hom:visited, .con:link, .con:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 20px 40px;
+  position: absolute;
+  margin-top: 0px;
+  left: 8%;
+  right: 0%;
+  border-radius: 70%;
+  
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+  margin-left: 80%;
+
+}
+
+	a:hover, a:active{
+  background-color: red;
+  opacity: 0.6;
+
+
+}
+
+.quali{
+	margin-top: 3%;
+	margin-bottom: 3%;
+	font-size: 3em;
+}
+
+.con{
+	position: relative;
+	right: 35%;
+	top: 38%;
+	left: 25%;
+
+	
+	text-align: center;
+
+}
+.qua{
+	position: absolute;
+	left: 25%;
+	right: 20%;
+	top: 16%;
+	text-align: left;
+
+}
+
+.hom{
+	position: absolute;
+	left: 30%;
+	top: 5%;
+}
+
+.abo{
+	position: absolute;
+	left: 30%;
+	top: 27%;
+}
+
+.button{
+	position: absolute;
+	top: 70%;
+	width: 40px;
+	left: 47%;
+	
+	display: block;
+	color: blue;
+
+}
+.btn{
+	border: none;
+	padding: 12px 30px;
+	color: black;
+	text-decoration: none;
+	display: inline-block;
+	transition: 0.6% ease;
+	background-color: white;
+	cursor: pointer;
+	font-size: 30px;
+
+}
+
+
+.btn:hover{
+	background-color: darkred;
+	color: white;
+	opacity: 0.9;
+}
+
+.fb{
+	display: inline-block;
+	margin: 0px auto 0px auto;
+	background-color: #3b5998;
+	color: white;
+	font-size: 125%;
+	margin: 10px auto 10px auto;
+	border-width: 90%
+
+}
+
+.git{
+	display: inline-block;
+	font-size: 125%;
+	margin-left: 1.5em;
+	color: white;
+	background-color: black;
+
+}
+
+.link{
+	display: inline-block;
+	font-size: 125%;
+	
+	margin-left: 1.5em;
+	color: white;
+	background-color: black;
+
+
+}
+
+.cont{
+	padding: 0px auto 0px auto;
+	position: relative;
+	color: #e84545;
+	font-size: 400%;
+	font-family: cursive,sans-serif,monospace;
+	font: bold ;
+	font-style: italic;
+
+
+}
+.ne{padding: 0px auto 0px auto;
+	position: relative;
+	
+	color: #e84545;
+	font-size: 300%;
+	font-family: cursive,sans-serif,monospace;
+	font-style: italic;
+
+}
+
+.clo{
+	padding: 0px auto 0px auto;
+	position: relative;
+	
+	color: #e84545;
+	font-size: 200%;
+	font-family: cursive,sans-serif,monospace;
+	font-style: italic;
+}
+
+.contact{ height: 750px;
+text-align: center;
+align-items: center;
+padding: 5% 10% 5%; 
+}
+
+.profile{
+	margin: auto;
+	left: 0.8em;
+	bottom: 38em;
+	position: relative;
+	border-radius: 40%;
+	size: 40%;
+
+
+}	
+
+.about{
+	text-align: center;
+	font-size: 70px;
+	bottom: 80%;
+	position: absolute;
+	left: 8.5em;
+
+}
+
+.his{
+	
+	color: royalblue ;
+	font-size: 2em;
+	top: 5.5em;
+	margin-left: 30%;
+	float: right;
+	position: absolute;
+	margin-right: 15%;
+	border-spacing: 1%;	
+}
+
+.sskills{
+	text-align: left;
+	margin-left: 1.5em;
+}
